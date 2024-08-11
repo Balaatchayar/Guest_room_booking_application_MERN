@@ -16,7 +16,6 @@ The Guest Room Booking Application enables seamless management and booking of ac
    ```sh
    git clone https://github.com/Balaatchayar/Guest_Room_Booking_Application_MERN
   
-
 2. **Install backend dependencies and start the server:**
     ```sh
     cd server
