@@ -1,0 +1,48 @@
+[
+    {
+      "_id": "66b0f7d22bb2f32088693473",
+      "owner": "66b0f4702bb2f3208869346a",
+      "name": "Elite Heritage",
+      "photos": [
+        "e44178bb-e4a6-4eb8-aa7b-6e7892d89e8e",
+        "1e4cf935-ded6-44be-81a3-5e2b1105ee1a",
+        "bcc56403-026b-4573-be12-f1f863ed7b5d",
+        "dcd481d3-b2ac-4c96-b4fc-6e190735b2f3",
+        "60d16ae0-b155-4045-8d81-aeca2674e8ca"
+      ],
+      "description": "We, ELITE HERITAGE, situated at Banashankari, Bangalore, Karnataka, provide luxurious and comfortable accommodations.",
+      "price": 2000,
+      "minimumBooking": 1,
+      "maximumBooking": 30,
+      "maxGuests": 10,
+      "location": "Banashankari, Bangalore, Karnataka",
+      "beds": 4,
+      "rooms": 4,
+      "bathRooms": 4,
+      "__v": 3
+    },
+
+
+
+    {
+      "_id": "66b1df1cd4037f1fddfb5a0a",
+      "owner": "66b1dd77d4037f1fddfb5a01",
+      "name": "Ramesh Guest House",
+      "photos": [
+        "f8ac6f74-9bdb-4f67-a022-a4204f31b211",
+        "f95e2201-a850-4604-97b9-7094b32da9f8"
+
+      ],
+      "description": "Ramesh Guest House is situated in Tuticorin and offers a garden and a comfortable stay.",
+      "price": 2000,
+      "minimumBooking": 1,
+      "maximumBooking": 30,
+      "maxGuests": 4,
+      "location": "22 North Cotton Road, 628001 Tuticorin, India",
+      "beds": 2,
+      "rooms": 4,
+      "bathRooms": 4,
+      "__v": 0
+    }
+  ]
+  

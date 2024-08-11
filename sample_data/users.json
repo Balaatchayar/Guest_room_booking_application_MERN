@@ -1,0 +1,30 @@
+[
+    {
+      "_id": "66b1dd77d4037f1fddfb5a01",
+      "name": "RAMESH",
+      "email": "ramesh@gmail.com",
+      "phone": "7708111129",
+      "password": "$2a$10$1LZLds94aGcD8XD02YaMeuzAMTM6TGBjRVhKAQuUp7zhvoOE.ejLW",
+      "role": "owner",
+      "__v": 0
+    },
+    {
+      "_id": "66b0f4702bb2f3208869346a",
+      "name": "ATCHAYA",
+      "email": "atchaya@gmail.com",
+      "phone": "934255555",
+      "password": "$2a$10$C/s9Eh8gL6RviCmN84x2TeeijmHqzJ7eaUZ4yZiGg2xOUc.UsZs/C",
+      "role": "owner",
+      "__v": 0
+    },
+    {
+      "_id": "66b0f9e02bb2f320886934cc",
+      "name": "ARJUN",
+      "email": "arjun@gmail.com",
+      "phone": "9342405649",
+      "password": "$2a$10$HoegOdMx7w8DRyZYXPsHZeIET4BI3q3d8Kun7WSxVFWWGgY.hOLk.",
+      "role": "customer",
+      "__v": 0
+    }
+  ]
+  
