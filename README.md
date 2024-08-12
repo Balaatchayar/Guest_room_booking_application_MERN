@@ -122,7 +122,7 @@ The Guest Room Booking Application enables seamless management and booking of ac
   - **Express.js**
 
 - **Database:**
-  - **MongoDB Atlas**
+  - **MongoDB**
 
 
 
