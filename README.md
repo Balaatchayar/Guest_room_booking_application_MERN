@@ -82,7 +82,7 @@ The Guest Room Booking Application enables seamless management and booking of ac
   - Select available dates and complete booking.
  
 
-#### Guest Room Booking Application - Screenshots
+### Guest Room Booking Application - Screenshots
 
 ### Homepage
 
