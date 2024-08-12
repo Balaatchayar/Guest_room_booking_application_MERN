@@ -4,6 +4,7 @@
 
 The Guest Room Booking Application enables seamless management and booking of accommodations. House Owners can easily register and log in, manage their properties by adding or editing room details, setting booking periods, and uploading photos. They can also view all bookings for their rooms.Customers can register and log in to browse detailed room descriptions and photos, check availability using an interactive calendar, and make bookings for available dates.
 
+
 ### Key Features
 - House owners can register, manage room details, set booking periods, and upload photos.
 - Customers can browse, view room details and availability, and make bookings.
@@ -55,8 +56,6 @@ The Guest Room Booking Application enables seamless management and booking of ac
     ```
 
 
-
-
 ## Features
 
 ### For House Owners
@@ -86,18 +85,44 @@ The Guest Room Booking Application enables seamless management and booking of ac
 ##Guest Room Booking Application - Screenshots
 
 ##Homepage
-![Project Screenshot](./sample_data/Guest Room Booking Application  Screenshots/Screenshot 1.png)
+
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot1.png)
+
+##Dashboard
+
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot2.png)
+
+### House Owner Features
+- Register, manage room details, set booking periods, and upload photos.
+- View their listings.
+- View Customer Bookings
+
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot3.png)
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot4.png)
+
+
+### Customer Features
+- View room details and photos
+- Check room availability with an interactive calendar
+- Make bookings
+
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot5.png)
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot6.png)
+
+
 
 ## Technology Stack
 
 - **Frontend:**
-  - **React.js**: A JavaScript library for building user interfaces with reusable components and efficient state management.
+  - **React.js**
+  - **Tailwind CSS**
 
 - **Backend:**
-  - **Node.js**: A JavaScript runtime for server-side code execution.
-  - **Express.js**: A web application framework for Node.js, offering robust features for building web applications and APIs.
+  - **Node.js**
+  - **Express.js**
 
 - **Database:**
-  - **MongoDB Atlas**: A cloud-based NoSQL database for flexible and scalable data storage.
+  - **MongoDB Atlas**
+
 
 
