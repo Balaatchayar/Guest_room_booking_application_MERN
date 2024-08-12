@@ -82,13 +82,13 @@ The Guest Room Booking Application enables seamless management and booking of ac
   - Select available dates and complete booking.
  
 
-##Guest Room Booking Application - Screenshots
+#### Guest Room Booking Application - Screenshots
 
-##Homepage
+### Homepage
 
 ![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot1.png)
 
-##Dashboard
+### Dashboard
 
 ![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot2.png)
 
