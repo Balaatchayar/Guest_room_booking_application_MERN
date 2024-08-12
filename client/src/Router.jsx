@@ -10,59 +10,60 @@ import PlacePage from "./pages/PlacePage/PlacePage";
 import DashBoardLayout from "./layouts/DashBoardLayout";
 import Reservations from "./pages/DashBoard/components/Reservations";
 
+// Define routes for the application
 export const Router = createBrowserRouter([
     {
-        path: "/",
+        path: "/", // Root path
         element: <MasterLayout />,
         children: [
             {
-                path: "/",
+                path: "/", // Home page
                 element: <HomePage />,
             },
             {
-                path: "login",
+                path: "login", // Login page
                 element: <LoginPage />,
             },
             {
-                path: "register",
+                path: "register", // Register page
                 element: <RegisterPage />,
             },
             {
-                path: "account",
+                path: "account", // Account page
                 element: <AccountPage />,
             },
         ],
     },
     {
-        path: "/places",
+        path: "/places", // Places section
         element: <MasterLayout />,
         children: [
             {
-                path: "new",
+                path: "new", // Form to create a new place
                 element: <PlaceForm />,
             },
             {
-                path: "edit/:id",
+                path: "edit/:id", // Form to edit a place by ID
                 element: <PlaceForm />,
             },
             {
-                path:":id",
-                element: <PlacePage />
-            }
+                path: ":id", // View a place by ID
+                element: <PlacePage />,
+            },
         ],
     },
     {
-        path:"/dashboard",
-        element:<DashBoardLayout/>,
-        children:[
+        path: "/dashboard", // Dashboard section
+        element: <DashBoardLayout />,
+        children: [
             {
-                path:"/dashboard",
-                element:<DashBoard/>
+                path: "/", // Dashboard main page
+                element: <DashBoard />,
             },
             {
-                path:"reservations",
-                element:<Reservations/>
-            }
-        ]
+                path: "reservations", // Reservations page
+                element: <Reservations />,
+            },
+        ],
     }
 ]);
