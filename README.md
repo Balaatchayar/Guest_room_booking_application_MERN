@@ -55,31 +55,6 @@ The Guest Room Booking Application enables seamless management and booking of ac
     VITE_UPLOAD_CARE_URL=https://ucarecdn.com/
     ```
 
-
-## Features
-
-### For House Owners
-- **Account Management:**
-  - Register and login with email and mobile number verification.
-
-- **Property Management:**
-  - Add, edit, and delete properties.
-  - Add detailed room descriptions including name, no. of rooms, no. of beds, price.
-  - Set daily rent amount, minimum, and maximum booking periods.
-
-- **Booking Management:**
-  - View all bookings for their rooms.
-
-### For Customers
-- **Account Management:**
-  - Register and login with email and mobile number verification.
-
-- **Room Browsing:**
-  - View detailed room descriptions and photos.
-  - Check room availability using an interactive calendar.
-
-- **Booking Process:**
-  - Select available dates and complete booking.
  
 
 ### Guest Room Booking Application - Screenshots
