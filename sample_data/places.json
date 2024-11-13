@@ -22,27 +22,5 @@
       "__v": 3
     },
 
-
-
-    {
-      "_id": "66b1df1cd4037f1fddfb5a0a",
-      "owner": "66b1dd77d4037f1fddfb5a01",
-      "name": "Ramesh Guest House",
-      "photos": [
-        "f8ac6f74-9bdb-4f67-a022-a4204f31b211",
-        "f95e2201-a850-4604-97b9-7094b32da9f8"
-
-      ],
-      "description": "Ramesh Guest House is situated in Tuticorin and offers a garden and a comfortable stay.",
-      "price": 2000,
-      "minimumBooking": 1,
-      "maximumBooking": 30,
-      "maxGuests": 4,
-      "location": "22 North Cotton Road, 628001 Tuticorin, India",
-      "beds": 2,
-      "rooms": 4,
-      "bathRooms": 4,
-      "__v": 0
-    }
   ]
   
