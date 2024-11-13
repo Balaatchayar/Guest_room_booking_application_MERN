@@ -71,27 +71,27 @@ The Guest Room Booking Application enables seamless management and booking of ac
 ### House Owner Features
 - House Owners can Register, manage room details, set booking periods, and upload photos.
   
-![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot7.png)
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot3.png)
 
 - View their listings
   
-![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot3.png)
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot4.png)
 
 - View Customer Bookings
   
-![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot4.png)
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot5.png)
 
 
 
 ### Customer Features
 - Customer can View room details and photos
 
-![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot5.png)
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot6.png)
 
 - Check room availability with an interactive calendar
 - Make bookings
 
-![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot6.png)
+![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot7.png)
 
 - Customer can View their bookings
 
