@@ -1,26 +1,12 @@
 [
     {
-      "_id": "66b6f14c1922bc279aea9627",
-      "place": "66b1df1cd4037f1fddfb5a0a",
-      "user": "66b0f9e02bb2f320886934cc",
-      "owner": "66b1dd77d4037f1fddfb5a01",
-      "checkInDate": "2024-08-11",
-      "checkOutDate": "2024-08-12",
-      "name": "Arjun",
-      "address": "Chennai",
-      "price": 2000,
-      "days": 1,
-      "guests": 4,
-      "__v": 0
-    },
-    {
       "_id": "66b6f26d1922bc279aea963d",
       "place": "66b1df1cd4037f1fddfb5a0a",
       "user": "66b5d25a35ee55f8de3fa97d",
       "owner": "66b1dd77d4037f1fddfb5a01",
       "checkInDate": "2024-08-13",
       "checkOutDate": "2024-08-20",
-      "name": "Harini",
+      "name": "Narayani",
       "address": "Tirunelveli",
       "price": 14000,
       "days": 7,
