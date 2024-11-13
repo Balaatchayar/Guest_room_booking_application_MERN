@@ -17,14 +17,6 @@
       "role": "owner",
       "__v": 0
     },
-    {
-      "_id": "66b0f9e02bb2f320886934cc",
-      "name": "ARJUN",
-      "email": "arjun@gmail.com",
-      "phone": "9342405649",
-      "password": "$2a$10$HoegOdMx7w8DRyZYXPsHZeIET4BI3q3d8Kun7WSxVFWWGgY.hOLk.",
-      "role": "customer",
-      "__v": 0
-    }
+  
   ]
   
