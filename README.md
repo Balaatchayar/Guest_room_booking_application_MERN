@@ -8,7 +8,7 @@ The Guest Room Booking Application enables seamless management and booking of ac
 ### Key Features
 - House owners can register, manage room details, set booking periods, and upload photos.
 - Customers can browse, view room details and availability, and make bookings.
-
+- The total booking amount is calculated on a per-night basis, with each night corresponding to a single day of stay.
   
 
 ### Steps for Deployment
@@ -64,6 +64,8 @@ The Guest Room Booking Application enables seamless management and booking of ac
 ![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot1.png)
 
 ### Dashboard
+
+### The total booking amount is calculated on a per-night basis, with each night corresponding to a single day of stay.
 
 ![Project Screenshot](sample_data/Guest_Room_Booking_Application_Screenshots/Screenshot2.png)
 
