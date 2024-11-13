@@ -103,7 +103,6 @@ The Guest Room Booking Application enables seamless management and booking of ac
 
 - **Frontend:**
   - **React.js**
-  - **Tailwind CSS**
 
 - **Backend:**
   - **Node.js**
