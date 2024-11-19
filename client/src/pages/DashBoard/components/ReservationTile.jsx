@@ -34,9 +34,9 @@ const ReservationTile = ({ reservation, place, user }) => {
                         reservation.checkOutDate}
                 </p>
                 <p>
-                    {`${reservation.days} ${
+                    {`for ${reservation.days} ${
                         reservation.days === 1 ? "night" : "nights"
-                    }`}
+                    } stay , The amount is`}
                 </p>
                 <div className="flex gap-2 font-bold px-2 py-1  bg-primary rounded-lg text-white w-fit">
                     {"₹ " + reservation?.price?.toLocaleString()}
