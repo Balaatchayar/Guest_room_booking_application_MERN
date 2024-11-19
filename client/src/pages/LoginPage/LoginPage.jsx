@@ -37,6 +37,15 @@ const LoginPage = () => {
         return Object.keys(newErrors).length === 0;
     };
 
+    // Clear individual errors when inputs change
+    const clearError = (field) => {
+        setErrors((prevErrors) => {
+            const newErrors = { ...prevErrors };
+            delete newErrors[field];
+            return newErrors;
+        });
+    };
+
     // Handle form submission
     const handleSubmit = (event) => {
         event.preventDefault();
@@ -50,15 +59,11 @@ const LoginPage = () => {
                 setAlertMessage(message);
                 setAlertType(type);
                 setUser(user);
-                
+
                 // Redirect based on user role
                 if (type === "success") {
                     setTimeout(() => {
-                        if (user.role === "owner") {
-                            setRedirect("/dashboard");
-                        } else {
-                            setRedirect("/");
-                        }
+                        setRedirect(user.role === "owner" ? "/dashboard" : "/");
                     }, 1000);
                 }
             })
@@ -94,9 +99,10 @@ const LoginPage = () => {
                             type="email"
                             placeholder="Email Address"
                             value={email}
-                            onChange={(event) =>
-                                setEmail(event.target.value.toLowerCase())
-                            }
+                            onChange={(event) => {
+                                setEmail(event.target.value.toLowerCase());
+                                clearError("email");
+                            }}
                             required
                             className={`w-full px-4 py-2 border ${
                                 errors.email
@@ -115,9 +121,10 @@ const LoginPage = () => {
                             type="password"
                             placeholder="Password"
                             value={password}
-                            onChange={(event) =>
-                                setPassword(event.target.value)
-                            }
+                            onChange={(event) => {
+                                setPassword(event.target.value);
+                                clearError("password");
+                            }}
                             required
                             className={`w-full px-4 py-2 border ${
                                 errors.password
