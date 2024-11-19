@@ -37,7 +37,7 @@ const PlaceTile = ({ place }) => {
                     <span className="font-bold">
                         ₹ {place?.price?.toLocaleString()}
                     </span>
-                    night
+                  per night stay
                 </p>
             </div>
         </div>
