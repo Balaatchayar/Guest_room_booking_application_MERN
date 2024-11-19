@@ -1,4 +1,4 @@
-// importing required dependenciess
+// importing required dependencies
 const express = require("express");
 const cors = require("cors");
 require("dotenv").config();
