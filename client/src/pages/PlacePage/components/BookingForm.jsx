@@ -115,7 +115,7 @@ const BookingForm = ({
                 </label>
                 <p className="font-bold text-xl ">{`₹ ${totalPrice?.toLocaleString()} for ${totalDays} ${
                     totalDays === 1 ? "night" : "nights"
-                }`}</p>
+                } stay`}</p>
             </div>
             <button className="button" type="submit">
                 Book
