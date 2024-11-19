@@ -31,9 +31,9 @@ const BookingTile = ({ booking, place, owner }) => {
                     {booking.checkInDate + " -> " + booking.checkOutDate}
                 </p>
                 <p>
-                    {`${booking.days} ${
+                    {`For ${booking.days} ${
                         booking.days === 1 ? "night" : "nights"
-                    }`}
+                    } stay , The Amount is`}
                 </p>
 
                 <div className="flex gap-2 font-bold px-2 py-1  bg-primary rounded-lg text-white w-fit">
