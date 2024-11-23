@@ -16,7 +16,7 @@ const User = require("./models/User.js");
 const Place = require("./models/Place.js");
 const Booking = require("./models/Booking.js");
 
-// initialize express
+
 const app = express();
 
 // * middleware functions
